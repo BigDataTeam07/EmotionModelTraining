@@ -2,7 +2,7 @@
 # https://github.com/google-research/google-research/tree/master/goemotions
 # Original license: Apache License 2.0
 
-"""Script based on the BERT finetuning runner, modified for performing emotion prediction."""
+"""Script based on the BERT fine tuning runner, modified for performing emotion prediction."""
 
 from __future__ import absolute_import
 from __future__ import division
